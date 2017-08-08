@@ -36,7 +36,7 @@ version 0.01
       'country'    => 'CA'
     );
 
-    my $shipping-addr = WWW::SilverGoldBull::Address.new({
+    my $shipping-addr = WWW::SilverGoldBull::Address.new(
       'city'       => 'Calgary',
       'first_name' => 'John',
       'region'     => 'AB',
@@ -46,7 +46,7 @@ version 0.01
       'street'     => '888 - 3 ST SW, 10 FLOOR - WEST TOWER',
       'phone'      => '+1 (403) 668 8648',
       'country'    => 'CA'
-    });
+    );
 
     my $item = WWW::SilverGoldBull::Item.new(
         'bid_price' => 468.37,
