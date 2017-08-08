@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.org/dboys/p6-WWW-SilverGoldBull.png)](https://travis-ci.org/dboys/p6-WWW-SilverGoldBull)
+
 # NAME
 
 WWW::SilverGoldBull - Perl6 client for the Silver Gold Bull(https://silvergoldbull.com/) web service
